@@ -1,0 +1,6 @@
+{
+  "singleQuote": true,
+  "arrowsParens": "always",
+  "tabWidth": 2,
+  "printWidth": 80
+}
